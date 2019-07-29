@@ -15,7 +15,7 @@ html, body{margin:0; padding:0; width: 100%; height: 100%;}
 input:focus{outline:none;}
 a{color:black; text-decoration:none;}
 ul, li{margin:0; padding:0; list-style:none}
-h1, h2, h3, h4, h5, h6, p, img{margin:0; padding:0;}
+h1, h2, h3, h4, h5, h6, p, img, input{margin:0; padding:0;}
 
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
